@@ -1,0 +1,14 @@
+{
+  "label": "node1",
+  "addr": "0.0.0.0:8000",
+  "system": {
+    "sampling": 1
+  },
+  "port": {
+    "nums": [
+      "27017",
+      "8000"
+    ],
+    "sampling": 2
+  }
+}

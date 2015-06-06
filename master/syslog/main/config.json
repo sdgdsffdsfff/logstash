@@ -1,0 +1,16 @@
+{
+  "mail":{
+    "receivers": ["lvchao1@wepiao.com"],
+    "smtp": "smtp.163.com:25",
+    "access" :{
+      "username": "531761646@qq.com",
+      "password": "qwer1234"
+    }
+  },
+  "sms": {
+    "receivers:" ["18611170347"]
+  },
+  "mongo":{
+    "url":"127.0.0.1:12707"
+  }
+}
